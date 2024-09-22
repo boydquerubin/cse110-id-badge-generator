@@ -1,3 +1,4 @@
+# badge generator
 first_name = input("Enter your first name: ").title()
 last_name = input("Enter your last name: ").upper()
 email = input("Enter your email address: ")
